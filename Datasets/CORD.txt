@@ -1,1 +1,2 @@
-Place CORD datasets here.
+Place CORD datasets in this directory.
+
